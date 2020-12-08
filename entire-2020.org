@@ -1,0 +1,34 @@
+#+TITLE: Making sense of a variable but structured world
+#+STARTUP: indent
+
+* Abstract
+Perception requires extracting information from variable and ambiguous sensory
+signals.  Speech is a prime example of this problem: many different kinds of
+variability affect the speech signal, from environmental noise, to intrinsic
+variability of the motor systems, to systematic differences between talkers,
+dialects, registers, etc.  I'll talk about a theory grounded in the tradition of
+Bayesian ideal observer models for understanding how perceptual systems function
+in the face of such structured variability.  In short, this analysis suggests
+that effective perception in a variable but structured world requires a tight
+integration between learning, memory, and perception, in order to benefit from
+the structure present in systematic variability across contexts.
+
+* Notes
+Audience is: learning science folks, some psych, some engineers (both like
+ML/NLP folks and hardware/signals people).  A tricky needle to thread.
+
+I think a lot of this can be done with a careful introduction and keeping things
+pretty high level.
+
+My goal is to give y'all a taste of the kinds of problems I work on and the
+conceptual tools I find really useful.
+
+Idea is to provide some conceptual hooks...about how people build on past
+experience to learn more effectively in the future, and some of the challenges
+that this presents.  I'm going to argue that this is a
+
+
+in a variable but structured world, perception problems are also LEARNING and
+MEMORY problems; and on top of that, problems of inducing new structure and
+context.
+
